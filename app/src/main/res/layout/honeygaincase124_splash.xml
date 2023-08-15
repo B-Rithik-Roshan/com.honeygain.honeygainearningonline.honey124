@@ -48,7 +48,8 @@
         <com.airbnb.lottie.LottieAnimationView
             style="@style/Theme.honeygain.Lottie3"
             android:layout_width="match_parent"
-            android:layout_height="70dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="30dp"
             android:layout_below="@id/x"
             app:lottie_autoPlay="true"
             app:lottie_loop="true" />
